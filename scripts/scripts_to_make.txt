@@ -1,0 +1,6 @@
+toPatrol.txt
+toAttack.txt
+toPursue.txt
+toCall.txt
+toCome.txt
+toDart.txt
