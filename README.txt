@@ -1,1 +1,1 @@
-"[SIG-GameDev] Environments Group"  
+"[SIG-GameDev] Characters Group"  
