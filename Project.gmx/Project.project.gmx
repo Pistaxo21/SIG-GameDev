@@ -8,6 +8,12 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scrPatrol.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\objEnemy</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
